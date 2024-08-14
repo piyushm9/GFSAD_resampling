@@ -1,4 +1,4 @@
-# GFSAD data resampling
+# Global Food-and-Water Security-support Analysis Data (GFSAD)  resampling
 SUMMARY
 This code takes the input raster at 30 meters resolution and resamples the data to 5 arc min resolution for all files. The overall process of resampling high-resolution raster data to a lower resolution for analysis or visualization. 
 
