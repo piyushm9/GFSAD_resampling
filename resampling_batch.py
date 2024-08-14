@@ -1,4 +1,4 @@
-"""Last Updated: Dec 6, 2019
+"""
 
 RESAMPLING GFSAD 30M DATA TO 5ARC-MINUTE RESOLUTION """
 #%%
